@@ -1,0 +1,7 @@
+users
+admins:
+1. Mwangola - 12345678m
+2. Ridhwan - 12345678r
+
+Employee:
+1.Swalehe001 - 12345678s
